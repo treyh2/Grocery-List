@@ -20,6 +20,7 @@
   color: black;
   display: flex;
   flex-flow: row;
+  font-family: sans-serif;
 }
 .cannedGoods {
   display: block;
@@ -37,5 +38,42 @@
   padding-left: 1rem;
   padding-bottom: 1rem;
   margin: 1rem;
+}
+
+.head2{
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  background-color: bisque;
+  width: 20.25rem;
+  padding-left: .5rem;
+  padding-right: 2.5rem;
+  margin: 1rem;
+
+}
+
+.veg{
+  display: block;
+  background-color: lightgray;
+  padding-right: 3rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  margin: 1rem;
+  list-style-type: armenian;
+}
+
+.snack{
+  background-color: lightgray;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  margin: 1rem;
+  padding-right: 1rem;
+  display: block;
+  list-style-type:armenian;
+}
+
+.freezeimg{
+  height: 200px;
+  width:200px;
 }
 
