@@ -10,9 +10,9 @@
   border-color: black;
   background-color: bisque;
   padding-left: .5rem;
-  padding-right: 2.5rem;
+  padding-right: 2rem;
   font-family: sans-serif ;
-  width: 20.25rem;
+  width: 20rem;
   margin: 1rem;
 }
 
@@ -29,15 +29,18 @@
   padding-left: 1rem;
   padding-bottom: 1rem;
   margin: 1rem;
+  margin-top: .25rem;
+  margin-right: .5rem;
 }
 
 .dryGoods{
   display: block;
   background-color: lightgray;
   padding-right: 2rem ;
-  padding-left: 1rem;
-  padding-bottom: 1rem;
+  padding-left: .75rem;
+  padding-bottom: .5rem;
   margin: 1rem;
+  margin-top: .25rem;
 }
 
 .head2{
@@ -45,9 +48,9 @@
   border-width: 2px;
   border-color: black;
   background-color: bisque;
-  width: 20.25rem;
+  width: 20rem;
   padding-left: .5rem;
-  padding-right: 2.5rem;
+  padding-right: 2rem;
   margin: 1rem;
 
 }
@@ -55,25 +58,37 @@
 .veg{
   display: block;
   background-color: lightgray;
-  padding-right: 3rem;
+  padding-right: 2rem;
   padding-left: 1rem;
   padding-bottom: 1rem;
   margin: 1rem;
+  margin-top: .25rem;
+  margin-right: .5rem;
   list-style-type: armenian;
 }
 
 .snack{
+  display:block;
   background-color: lightgray;
-  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-left: 1rem;
   padding-bottom: 1rem;
   margin: 1rem;
-  padding-right: 1rem;
-  display: block;
+  margin-top: .25rem;
+  margin-right: .5rem;
   list-style-type:armenian;
 }
 
 .freezeimg{
   height: 200px;
   width:200px;
+  margin: 1rem;
+  margin-top: .25rem;
 }
 
+.pantry{
+  height: 200px;
+  width: 200px;
+  margin: 1rem;
+  margin-top: .25rem;
+}
